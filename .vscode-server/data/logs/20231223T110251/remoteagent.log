@@ -1,0 +1,30 @@
+[2023-12-23 11:02:51.779] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2023-12-23 11:02:51.779] [remoteagent] [info] Extension host agent started.
+[2023-12-23 11:02:54.107] [remoteagent] [info] [127.0.0.1][5219cbea][ManagementConnection] New connection established.
+[2023-12-23 11:02:57.293] [remoteagent] [info] [127.0.0.1][792e6f93][ExtensionHostConnection] New connection established.
+[2023-12-23 11:02:57.308] [remoteagent] [info] [127.0.0.1][792e6f93][ExtensionHostConnection] <1880> Launched Extension Host Process.
+[2023-12-23 11:03:51.570] [remoteagent] [info] [127.0.0.1][792e6f93][ExtensionHostConnection] The client has reconnected.
+[2023-12-23 11:04:07.516] [remoteagent] [info] [127.0.0.1][5219cbea][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2023-12-23 11:04:07.539] [remoteagent] [info] [127.0.0.1][792e6f93][ExtensionHostConnection] <1880> Extension Host Process exited with code: 0, signal: null.
+[2023-12-23 11:04:07.539] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2023-12-23 11:04:44.289] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2023-12-23 11:04:44.290] [remoteagent] [info] Cancelling previous shutdown timeout
+[2023-12-23 11:04:45.321] [remoteagent] [info] [127.0.0.1][740c22e1][ManagementConnection] New connection established.
+[2023-12-23 11:04:45.800] [remoteagent] [info] [127.0.0.1][1285e7c2][ExtensionHostConnection] New connection established.
+[2023-12-23 11:04:45.807] [remoteagent] [info] [127.0.0.1][1285e7c2][ExtensionHostConnection] <2108> Launched Extension Host Process.
+[2023-12-23 11:07:51.156] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2023-12-23 11:08:04.211] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2023-12-23 11:08:19.689] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2023-12-23 11:12:12.565] [remoteagent] [error] No ptyHost heartbeat after 12 seconds
+[2023-12-23 11:12:19.075] [remoteagent] [info] New EH opened, aborting shutdown
+[2023-12-23 11:13:11.019] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2023-12-23 11:13:21.190] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds

@@ -1,0 +1,33 @@
+[2023-12-23 10:16:55.985] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2023-12-23 10:16:55.985] [remoteagent] [info] Extension host agent started.
+[2023-12-23 10:16:56.544] [remoteagent] [info] [127.0.0.1][fee732bc][ManagementConnection] New connection established.
+[2023-12-23 10:16:57.074] [remoteagent] [info] [127.0.0.1][86f32c5b][ExtensionHostConnection] New connection established.
+[2023-12-23 10:16:57.079] [remoteagent] [info] [127.0.0.1][86f32c5b][ExtensionHostConnection] <1922> Launched Extension Host Process.
+[2023-12-23 10:17:20.746] [remoteagent] [info] [127.0.0.1][fee732bc][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2023-12-23 10:17:20.758] [remoteagent] [info] [127.0.0.1][86f32c5b][ExtensionHostConnection] <1922> Extension Host Process exited with code: 0, signal: null.
+[2023-12-23 10:17:20.759] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2023-12-23 10:17:37.333] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2023-12-23 10:17:37.333] [remoteagent] [info] Cancelling previous shutdown timeout
+[2023-12-23 10:17:38.420] [remoteagent] [info] [127.0.0.1][782d839b][ManagementConnection] New connection established.
+[2023-12-23 10:17:38.839] [remoteagent] [info] [127.0.0.1][6bc49252][ExtensionHostConnection] New connection established.
+[2023-12-23 10:17:38.843] [remoteagent] [info] [127.0.0.1][6bc49252][ExtensionHostConnection] <2073> Launched Extension Host Process.
+[2023-12-23 10:22:16.628] [remoteagent] [info] Getting Manifest... ms-azuretools.vscode-docker
+[2023-12-23 10:22:16.887] [remoteagent] [info] Installing extension: ms-azuretools.vscode-docker
+[2023-12-23 10:22:17.602] [remoteagent] [info] Downloaded extension: ms-azuretools.vscode-docker /home/ec2-user/.vscode-server/data/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.22.2
+[2023-12-23 10:22:17.758] [remoteagent] [info] Extracted extension to /home/ec2-user/.vscode-server/extensions/.086e4f9e-b909-4042-96dd-4f9d3830c9c3: ms-azuretools.vscode-docker
+[2023-12-23 10:22:17.771] [remoteagent] [info] Renamed to /home/ec2-user/.vscode-server/extensions/ms-azuretools.vscode-docker-1.22.2
+[2023-12-23 10:22:17.773] [remoteagent] [info] Extracting completed. ms-azuretools.vscode-docker
+[2023-12-23 10:22:17.774] [remoteagent] [info] Extension installed successfully: ms-azuretools.vscode-docker
+[2023-12-23 10:22:37.334] [remoteagent] [info] New EH opened, aborting shutdown
+[2023-12-23 10:48:22.359] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2023-12-23 10:48:41.043] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2023-12-23 10:54:14.915] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds

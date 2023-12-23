@@ -1,0 +1,10 @@
+[2023-12-23 11:03:27.144] [exthost] [info] Extension host with pid 1880 started
+[2023-12-23 11:03:49.460] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2023-12-23 11:03:49.471] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2023-12-23 11:03:54.016] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2023-12-23 11:03:54.099] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2023-12-23 11:03:54.594] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2023-12-23 11:03:54.613] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2023-12-23 11:03:54.617] [exthost] [info] Eager extensions activated
+[2023-12-23 11:04:07.527] [exthost] [info] extension host terminating: received terminate message from renderer
+[2023-12-23 11:04:07.533] [exthost] [info] Extension host with pid 1880 exiting with code 0

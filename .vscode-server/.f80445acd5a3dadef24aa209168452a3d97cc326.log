@@ -1,0 +1,24 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 39463
+
+[12:59:34] Extension host agent started.
+[12:59:36] [127.0.0.1][edd0b0ba][ManagementConnection] New connection established.
+[12:59:36] [127.0.0.1][ca257798][ExtensionHostConnection] New connection established.
+[12:59:36] [127.0.0.1][ca257798][ExtensionHostConnection] <1877> Launched Extension Host Process.
+[13:00:13] [127.0.0.1][6db904e8][ManagementConnection] New connection established.
+[13:01:00] [127.0.0.1][8bef6b6f][ManagementConnection] New connection established.
+[13:01:00] [127.0.0.1][fa9ac0d5][ExtensionHostConnection] New connection established.
+[13:01:00] [127.0.0.1][fa9ac0d5][ExtensionHostConnection] <2090> Launched Extension Host Process.
+[13:01:09] [127.0.0.1][8bef6b6f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[13:01:09] [127.0.0.1][fa9ac0d5][ExtensionHostConnection] <2090> Extension Host Process exited with code: 0, signal: null.
+[13:01:18] [127.0.0.1][4d5876e9][ManagementConnection] New connection established.
+[13:01:19] [127.0.0.1][f94f4066][ExtensionHostConnection] New connection established.
+[13:01:19] [127.0.0.1][f94f4066][ExtensionHostConnection] <2186> Launched Extension Host Process.

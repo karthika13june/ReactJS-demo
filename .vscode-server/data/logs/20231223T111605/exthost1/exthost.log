@@ -1,0 +1,22 @@
+[2023-12-23 11:16:08.940] [exthost] [info] Extension host with pid 1852 started
+[2023-12-23 11:16:08.942] [exthost] [error] Error: EEXIST: file already exists, open '/home/ec2-user/.vscode-server/data/User/workspaceStorage/7e33c656aa49af922f8284d4c645afac/vscode.lock'
+[2023-12-23 11:16:08.944] [exthost] [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/7e33c656aa49af922f8284d4c645afac/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2023-12-23 11:16:08.945] [exthost] [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/7e33c656aa49af922f8284d4c645afac/vscode.lock': The pid 2073 appears to be gone.
+[2023-12-23 11:16:08.945] [exthost] [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/7e33c656aa49af922f8284d4c645afac/vscode.lock': Deleting a stale lock.
+[2023-12-23 11:16:08.949] [exthost] [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/7e33c656aa49af922f8284d4c645afac/vscode.lock': Lock acquired.
+[2023-12-23 11:16:09.222] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2023-12-23 11:16:09.236] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2023-12-23 11:16:09.822] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2023-12-23 11:16:09.900] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2023-12-23 11:16:10.163] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2023-12-23 11:16:10.183] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2023-12-23 11:16:10.188] [exthost] [info] Eager extensions activated
+[2023-12-23 11:16:15.995] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onLanguage:dockerfile'
+[2023-12-23 11:19:21.208] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt, startup: false, activationEvent: 'onTaskType:grunt'
+[2023-12-23 11:19:21.215] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp, startup: false, activationEvent: 'onTaskType:gulp'
+[2023-12-23 11:19:21.221] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake, startup: false, activationEvent: 'onTaskType:jake'
+[2023-12-23 11:19:21.226] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTaskType:npm'
+[2023-12-23 11:19:21.261] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onTaskType:typescript'
+[2023-12-23 11:19:24.070] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2023-12-23 11:19:24.080] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2023-12-23 11:19:24.098] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'

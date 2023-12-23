@@ -1,0 +1,15 @@
+[2023-12-23 11:16:05.946] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2023-12-23 11:16:05.946] [remoteagent] [info] Extension host agent started.
+[2023-12-23 11:16:06.702] [remoteagent] [info] [127.0.0.1][aeba8066][ManagementConnection] New connection established.
+[2023-12-23 11:16:07.043] [remoteagent] [info] [127.0.0.1][0b1d7f9f][ExtensionHostConnection] New connection established.
+[2023-12-23 11:16:07.048] [remoteagent] [info] [127.0.0.1][0b1d7f9f][ExtensionHostConnection] <1852> Launched Extension Host Process.
+[2023-12-23 12:45:23.356] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds

@@ -1,0 +1,10 @@
+[2023-12-23 13:01:02.487] [exthost] [info] Extension host with pid 2090 started
+[2023-12-23 13:01:02.716] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2023-12-23 13:01:02.721] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2023-12-23 13:01:02.925] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2023-12-23 13:01:02.989] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2023-12-23 13:01:03.251] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2023-12-23 13:01:03.271] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2023-12-23 13:01:03.281] [exthost] [info] Eager extensions activated
+[2023-12-23 13:01:09.239] [exthost] [info] extension host terminating: received terminate message from renderer
+[2023-12-23 13:01:09.246] [exthost] [info] Extension host with pid 2090 exiting with code 0

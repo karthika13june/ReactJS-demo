@@ -1,0 +1,12 @@
+[2023-12-23T13:01:22.284Z] Validating found git in: git
+[2023-12-23T13:01:22.378Z] Using git 2.40.1 from git
+[2023-12-23T13:01:22.420Z] > git rev-parse --git-dir [2ms]
+[2023-12-23T13:01:22.426Z] Open repository: /home/ec2-user/reactjs-demo
+[2023-12-23T13:01:22.476Z] > git symbolic-ref --short HEAD [6ms]
+[2023-12-23T13:01:22.486Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [5ms]
+[2023-12-23T13:01:22.498Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+[2023-12-23T13:01:22.499Z] > git remote --verbose [4ms]
+[2023-12-23T13:01:22.515Z] > git config --get commit.template [7ms]
+[2023-12-23T13:01:23.204Z] > git ls-files --stage -- /home/ec2-user/reactjs-demo/Dockerfile [2ms]
+[2023-12-23T13:03:25.698Z] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ec2-user/reactjs-demo/Dockerfile [2ms]
+[2023-12-23T13:03:35.072Z] > git ls-files --stage -- /home/ec2-user/reactjs-demo/.dockerignore [2ms]

@@ -1,0 +1,15 @@
+[2023-12-23 13:01:20.832] [exthost] [info] Extension host with pid 2186 started
+[2023-12-23 13:01:20.834] [exthost] [error] Error: EEXIST: file already exists, open '/home/ec2-user/.vscode-server/data/User/workspaceStorage/fc1df93956bf4154c590c783252c6739/vscode.lock'
+[2023-12-23 13:01:20.836] [exthost] [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/fc1df93956bf4154c590c783252c6739/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2023-12-23 13:01:20.836] [exthost] [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/fc1df93956bf4154c590c783252c6739/vscode.lock': The pid 2108 appears to be gone.
+[2023-12-23 13:01:20.836] [exthost] [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/fc1df93956bf4154c590c783252c6739/vscode.lock': Deleting a stale lock.
+[2023-12-23 13:01:20.840] [exthost] [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/fc1df93956bf4154c590c783252c6739/vscode.lock': Lock acquired.
+[2023-12-23 13:01:21.080] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onLanguage:dockerfile'
+[2023-12-23 13:01:21.453] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2023-12-23 13:01:21.458] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2023-12-23 13:01:21.465] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2023-12-23 13:01:21.885] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2023-12-23 13:01:21.951] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2023-12-23 13:01:22.719] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2023-12-23 13:01:22.739] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2023-12-23 13:01:22.744] [exthost] [info] Eager extensions activated
